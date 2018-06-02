@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fire2" size="0.207000 0.207000" />
+    <ImageTarget name="fire" size="0.243000 0.207968" />
+    <ImageTarget name="heli" size="0.207000 0.207000" />
+  </Tracking>
+</QCARConfig>
