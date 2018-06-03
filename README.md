@@ -8,9 +8,9 @@ of augmented reality to its players.
 
 ### Prerequisites
 
-Unity 2017.4
-Microsoft Visual Studio Community 2017
-Microsoft Hololens
+* Unity 2017.4
+* Microsoft Visual Studio Community 2017
+* Microsoft Hololens
 
 ### Installing
 
